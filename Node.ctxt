@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=initX\ initY
+comment0.target=Node(int,\ int)
+comment1.params=edgeArray
+comment1.target=void\ addEdges(Edge[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=int\ compareTo(Node)
+numComments=4
